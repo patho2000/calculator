@@ -14,11 +14,11 @@ class Calculator implements ActionListener{
   TextField t2=new TextField();
   TextField t3=new TextField();
 
-  Button b1=new Button("Add");
-  Button b2=new Button("Sub");
-  Button b3=new Button("Mul");
-  Button b4=new Button("Div");
-  Button b5=new Button("Cancel");
+  Button b1=new Button("add");
+  Button b2=new Button("sub");
+  Button b3=new Button("mul");
+  Button b4=new Button("div");
+  Button b5=new Button("cancel");
 
   Calculator()
   {
