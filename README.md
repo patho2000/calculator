@@ -1,6 +1,7 @@
 # how make calculatoe with  java
 
-# import java.awt.*;
+# code 
+import java.awt.*;
 import java.awt.event.*;
 
 class Calculator implements ActionListener{
